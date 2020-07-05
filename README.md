@@ -4,6 +4,7 @@
 - The first goal is to explore different categories of apps in the Google Play Store and identify the most common category apps.
 - Average user ratings for apps is calculated and visual plots are made to see the trends.
 - Different relationships that are explored in the notebook include:
+
       1. Size vs Price of the app.
       2. App Category vs Price of the app.
       3. Popularity of Paid apps vs free apps.
